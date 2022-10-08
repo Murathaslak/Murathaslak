@@ -4,7 +4,6 @@
 - 📫 How to reach me **murathaslak@windowslive.com**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murathaslak&label=Profile%20views&color=0e75b6&style=flat" alt="Murathaslak" /> </p>
 
 
 
