@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a target="_blank" rel="noreferrer">
+<p align="left">
   
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> </a> 
   
