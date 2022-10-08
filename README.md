@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently learning UIKit and SwiftUI
+- 📫 How to reach me **murathaslak@windowslive.com**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Murathaslak&label=Profile%20views&color=0e75b6&style=flat" alt="Murathaslak" /> </p>
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Murathaslak&show_icons=true&theme=gradient) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
