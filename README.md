@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently learning UIKit and SwiftUI
-- 📫 How to reach me **murathaslak@windowslive.com**
 
 
 
