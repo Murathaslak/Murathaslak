@@ -17,5 +17,4 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Murathaslak&show_icons=true&theme=gradient) 
 
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murathaslak&show_icons=true&locale=en&" alt="Murathaslak" /></p>
 
