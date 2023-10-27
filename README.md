@@ -21,7 +21,7 @@
   <a href="https://apps.apple.com/tr/app/kızılkaya-mobil/id6452725405?platform=iphone">Kızılkaya Mobil</a> |
   <a href="https://github.com/Murathaslak/GitHubFollowers">GitHubFollowers</a> |
   <a href="https://github.com/Murathaslak/MoviesApi-MVVM">MoviesApi-MVVM</a> |
-  <a href="https://github.com/Murathaslak/MoviesApi-MVVM">NewsApi</a> |
+  <a href="https://github.com/Murathaslak/NewsApi">NewsApi</a> |
 
 </h3>
 
