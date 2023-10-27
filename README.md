@@ -51,7 +51,7 @@
 <div align=center>
 <table>
     <tr>
-        <td colspan="8">
+        <td colspan="6">
         <strong><samp>Side Skills:</samp></strong>
         </td>
     </tr>
