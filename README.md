@@ -22,7 +22,7 @@
   <a href="https://github.com/Murathaslak/GitHubFollowers">GitHubFollowers</a> |
   <a href="https://github.com/Murathaslak/MoviesApi-MVVM">MoviesApi-MVVM</a> |
   <a href="https://github.com/Murathaslak/NewsApi">NewsApi</a> |
-  <a href="https://github.com/Murathaslak/Landmarks">NewsApi</a> |
+  <a href="https://github.com/Murathaslak/Landmarks">Landmarks</a> |
 
 
 </h3>
