@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi everyone, my name is Osman Murat Haşlak
+  Hi everyone, my name is Osman Murat Haslak
 </h1> 
 <br>
 <br>
@@ -13,7 +13,7 @@
   <a href=""><img width=150 src="https://github.com/Murathaslak/Murathaslak/assets/61151141/7185cff7-43df-4609-adf9-224590656fe3"></a>
   <a href=""><img width=150 src="https://github.com/Murathaslak/Murathaslak/assets/61151141/3d18d8ce-1008-4b97-9636-2eb6b862c78f"></a>
   <a href=""><img width=150 src="https://github.com/Murathaslak/Murathaslak/assets/61151141/c3bd3831-54bd-4798-92ac-6ed02baf459c"></a>
-
+  <a href=""><img width=150 src="https://github.com/Murathaslak/Murathaslak/assets/61151141/c483a789-9a6e-479b-9b4c-7d0bf89f43ab"></a>
  </a>
 </div>
 
@@ -22,6 +22,8 @@
   <a href="https://github.com/Murathaslak/GitHubFollowers">GitHubFollowers</a> |
   <a href="https://github.com/Murathaslak/MoviesApi-MVVM">MoviesApi-MVVM</a> |
   <a href="https://github.com/Murathaslak/NewsApi">NewsApi</a> |
+  <a href="https://github.com/Murathaslak/Landmarks">NewsApi</a> |
+
 
 </h3>
 
