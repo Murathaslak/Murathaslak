@@ -25,6 +25,7 @@
   <a href="https://github.com/Murathaslak/MoviesApi-MVVM">MoviesApi-MVVM</a> |
   <a href="https://github.com/Murathaslak/NewsApi">NewsApi</a> |
   <a href="https://github.com/Murathaslak/Landmarks">Landmarks</a> |
+  <br>
   <a href="https://github.com/Murathaslak/CoinsApp-MVVM">CoinsApp-MVVM</a> |
 
 
