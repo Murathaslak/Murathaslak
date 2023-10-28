@@ -15,6 +15,8 @@
   <a href=""><img width=150 src="https://github.com/Murathaslak/Murathaslak/assets/61151141/c3bd3831-54bd-4798-92ac-6ed02baf459c"></a>
   <a href=""><img width=150 src="https://github.com/Murathaslak/Murathaslak/assets/61151141/c483a789-9a6e-479b-9b4c-7d0bf89f43ab"></a>
  </a>
+  <a href=""><img width=150 src="https://github.com/Murathaslak/Murathaslak/assets/61151141/c55efcff-048e-4caf-952d-c40016c125bd"></a>
+
 </div>
 
 <h3 align="center">
@@ -23,6 +25,8 @@
   <a href="https://github.com/Murathaslak/MoviesApi-MVVM">MoviesApi-MVVM</a> |
   <a href="https://github.com/Murathaslak/NewsApi">NewsApi</a> |
   <a href="https://github.com/Murathaslak/Landmarks">Landmarks</a> |
+  <a href="https://github.com/Murathaslak/CoinsApp-MVVM">CoinsApp-MVVM</a> |
+
 
 
 </h3>
